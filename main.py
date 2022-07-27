@@ -1,6 +1,7 @@
 import os 
 import requests
 import json
+import ascii2text
 from pystyle import Colors, Colorate, Center, Write
 import random
 import threading
